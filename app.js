@@ -20,3 +20,4 @@ btn.addEventListener("click", function(){
 //    addFriend.innerHTML = "Request Sent"
 })
 
+// 2 code in instagram
